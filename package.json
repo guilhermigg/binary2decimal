@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -b gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,5 +34,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://guilhermigg.github.io/"
+  "homepage": "https://guilhermigg.github.io/bin2dec-converter/"
 }
