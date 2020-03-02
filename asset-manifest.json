@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bin2dec-converter/static/css/main.022831dc.chunk.css",
-    "main.js": "/bin2dec-converter/static/js/main.8d4de31f.chunk.js",
-    "main.js.map": "/bin2dec-converter/static/js/main.8d4de31f.chunk.js.map",
-    "runtime-main.js": "/bin2dec-converter/static/js/runtime-main.b2feeba9.js",
-    "runtime-main.js.map": "/bin2dec-converter/static/js/runtime-main.b2feeba9.js.map",
-    "static/js/2.26acce97.chunk.js": "/bin2dec-converter/static/js/2.26acce97.chunk.js",
-    "static/js/2.26acce97.chunk.js.map": "/bin2dec-converter/static/js/2.26acce97.chunk.js.map",
-    "index.html": "/bin2dec-converter/index.html",
-    "precache-manifest.89e73fdc972f84d980388e1ec0653ef1.js": "/bin2dec-converter/precache-manifest.89e73fdc972f84d980388e1ec0653ef1.js",
-    "service-worker.js": "/bin2dec-converter/service-worker.js",
-    "static/css/main.022831dc.chunk.css.map": "/bin2dec-converter/static/css/main.022831dc.chunk.css.map",
-    "static/js/2.26acce97.chunk.js.LICENSE.txt": "/bin2dec-converter/static/js/2.26acce97.chunk.js.LICENSE.txt"
+    "main.css": "/binary2decimal/static/css/main.022831dc.chunk.css",
+    "main.js": "/binary2decimal/static/js/main.7486e42a.chunk.js",
+    "main.js.map": "/binary2decimal/static/js/main.7486e42a.chunk.js.map",
+    "runtime-main.js": "/binary2decimal/static/js/runtime-main.31561747.js",
+    "runtime-main.js.map": "/binary2decimal/static/js/runtime-main.31561747.js.map",
+    "static/js/2.26acce97.chunk.js": "/binary2decimal/static/js/2.26acce97.chunk.js",
+    "static/js/2.26acce97.chunk.js.map": "/binary2decimal/static/js/2.26acce97.chunk.js.map",
+    "index.html": "/binary2decimal/index.html",
+    "precache-manifest.2fb8ff7885c929105e3a8ae87bf6f8d0.js": "/binary2decimal/precache-manifest.2fb8ff7885c929105e3a8ae87bf6f8d0.js",
+    "service-worker.js": "/binary2decimal/service-worker.js",
+    "static/css/main.022831dc.chunk.css.map": "/binary2decimal/static/css/main.022831dc.chunk.css.map",
+    "static/js/2.26acce97.chunk.js.LICENSE.txt": "/binary2decimal/static/js/2.26acce97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2feeba9.js",
+    "static/js/runtime-main.31561747.js",
     "static/js/2.26acce97.chunk.js",
     "static/css/main.022831dc.chunk.css",
-    "static/js/main.8d4de31f.chunk.js"
+    "static/js/main.7486e42a.chunk.js"
   ]
 }
